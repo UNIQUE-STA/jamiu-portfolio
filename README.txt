@@ -1,0 +1,1 @@
+Replace passport-placeholder.jpg and cv.pdf with actual files.
